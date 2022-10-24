@@ -53,3 +53,10 @@ Prediccion posición Inicial
 Hemos creado una base de datos en PostgresSQL con datos  geolocalizados  para poder almacenar información sobre la contaminación maritima. 
 En el estado actual del proyecto, hemos guardado en la BD las coordenadas de los movimientos de las mareas del mar para poder almacenarlas y poder trabajar con ellas en las diferentes herramientas desarrolladas. 
 Esta base de datos nos aporta escalabilidad al proyecto, ya que en un futuro podríamos aumentar los datos, es decir, guardar más información útil en dicha BD. Por ejemplo, podríamos guardar coordenadas de diferentes residuos localizados en el mar, información sobre acciones de saneado del mar, etc. Estos nuevos datos  actualmente no los podríamos añadir porque necesitaríamos recolectarlos, ya que nadie lo hizo o  no consta en internet. 
+
+## 5. Teammates
+
+- Sergi Garriga
+- Raül Dalgamoni
+- Eric Alcaraz
+- Abel Espín
